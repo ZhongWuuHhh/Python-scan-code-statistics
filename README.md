@@ -1,7 +1,7 @@
 # Python-scan-code-statistics
 A graphical scanning code statistical application built with python
 
-[中文文档](README_ZH.md)
+:page_facing_up:[中文文档](README_ZH.md)
 
 ## How to use
 
