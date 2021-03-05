@@ -3,10 +3,7 @@ A graphical scanning code statistical application built with python
 
 [中文文档](README_ZH.md)
 
-# python scan code statistics
-A graphical scanning code statistical application built with python
-
-## how to use
+## How to use
 
 ### System Support
 
@@ -14,12 +11,12 @@ To use this program, please make sure that your device is equipped with a camera
 
 Use pip to install the library:
 
--opencv-python
--pyzbar
--csv
--time
--threading
--tkinter
+- opencv-python
+- pyzbar
+- csv
+- time
+- threading
+- tkinter
 
 ### File input
 
@@ -36,7 +33,7 @@ Number3    Namec
 
 ~~In addition, all list file names are written in the general form and placed in `/list..txt`~~
 
-~~and looks like:~~
+~~And looks like:~~
 ```
 xxxx.txt,xxxx.txt,xxxx.txt
 ``` 
