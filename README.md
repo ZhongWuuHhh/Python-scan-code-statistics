@@ -29,9 +29,9 @@ The list is recommended to be Excel `File>Export>Tab delimited txt file`
 
 And looks like:
 ```
-Number 1 Name a
-Number 2 Name b
-Number 3 Name c
+Number1    Namea
+Number2    Nameb
+Number3    Namec
 ```
 
 ~~In addition, all list file names are written in the general form and placed in `/list..txt`~~
